@@ -12,6 +12,10 @@ the issue tracker for this and explain the situation.
 You can install and experiment Karel, and give its exercises a go, and report back any
 surprising findings you ran into.
 
+## Documentation
+
+You can provide feedback on the documentation, pointing out where information is missing or unclear. If you would like to add documentation, please create an issue and explain what you want to write.
+
 ## Small contributions
 
 You can also go through our code --- if you see any small mistakes or have suggestions
